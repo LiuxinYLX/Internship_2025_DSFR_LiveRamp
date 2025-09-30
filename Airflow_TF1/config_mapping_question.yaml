@@ -1,0 +1,64 @@
+parameter_question:
+  id: 65b3e062-95c0-46ac-b3c7-964b2f4e42b2
+  parameter: 
+  - COMBIEN_MOIS_HISTORIQUE
+
+trigger_question:
+- displayID: CRQ-141558
+  id: 46d105bb-b1ce-445c-a6d3-9ef82eec2be7
+  name: 'Hybride - Annexe : Overview_DC_HABU_REFERENTIAL_SEGMENT'
+  trigger:
+
+- displayID: CRQ-141557
+  id: b40ac46b-c4cf-4e76-a9f2-d19b17b7ee9d
+  name: 'Hybride - Optimisation 3 : Segments Industries'
+  trigger:
+    Combien_Mois_Historique: COMBIEN_MOIS_HISTORIQUE
+
+- displayID: CRQ-141556
+  id: 3604f5d9-251a-4ccf-9f93-913effb70603
+  name: 'Hybride - Optimisation 1 : Segments Overlaps Avec Indice'
+  trigger:
+    Combien_Mois_Historique: COMBIEN_MOIS_HISTORIQUE
+
+- displayID: CRQ-141555
+  id: 95488395-480f-4cc9-b1bb-066ce42389da
+  name: 'Hybride - Benchmark Industrie 4'
+  trigger:
+
+- displayID: CRQ-141554
+  id: 429bac94-f56c-436e-a920-4252b28dbaf4
+  name: 'Hybride - Insight - Informations Générales Utilisateurs - Filtrer'
+  trigger:
+    Combien_Mois_Historique: COMBIEN_MOIS_HISTORIQUE
+
+- displayID: CRQ-141553
+  id: 941a575d-9449-4365-88f0-971305005f9f
+  name: 'Hybride - Insight - CONSOMMATION PROGRAMME - Total - Semestre'
+  trigger:
+
+- displayID: CRQ-141552
+  id: 82e6f44d-0d16-40b9-a333-0569a6a494dd
+  name: 'Hybride - Insight - CONSOMMATION PROGRAMME - Programme - Semestre'
+  trigger:
+
+- displayID: CRQ-141551
+  id: d82d7544-3a78-4329-a37c-c7495c93af3e
+  name: 'Hybride - Insight - COMPORTEMENT UTILISATEUR - Total - Semestre'
+  trigger:
+
+- displayID: CRQ-141550
+  id: a8941006-32c2-4798-bc04-a716e99abc1d
+  name: 'Hybride - Insight - COMPORTEMENT UTILISATEUR - Moment de Consommation - Semestre'
+  trigger:
+
+- displayID: CRQ-141549
+  id: 59e4e662-bd48-49b1-86ce-ebc0bf28dc23
+  name: 'Hybride - Insight - COMPORTEMENT UTILISATEUR - Fréquence de Consommation - Semestre'
+  trigger:
+
+- displayID: CRQ-141548
+  id: e27bd274-b00e-4dc2-a510-77f24471a75f
+  name: 'Hybride - Insight - COMPORTEMENT UTILISATEUR - Durée de consommation - Semestre'
+  trigger:
+

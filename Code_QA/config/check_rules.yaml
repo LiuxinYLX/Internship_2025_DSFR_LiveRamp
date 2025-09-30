@@ -1,0 +1,11 @@
+supermarket:
+  rules:
+    - duplicate_row
+    - duplicate_key
+    - barcode_length
+  
+movie:
+  rules:
+    - duplicate_row
+    - duplicate_key
+    - date_format

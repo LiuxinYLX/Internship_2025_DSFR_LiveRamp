@@ -1,0 +1,6 @@
+project_id="ds-fra-eu-non-pii-prod"
+data_set="LVR_airflow"
+parametre_info_table="TF1_parametre_question_template_hybride"
+trigger_info_table="TF1_trigger_question_template_hybride"
+secret_project="ds-fra-eu-non-pii-prod"
+secret_id="API_HABU_SECRET_tf1"
